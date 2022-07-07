@@ -43,5 +43,5 @@ I am André Lucas, a 24 year old Programação Full Stack JS PRO student from On
 
 
 ---
- > This README.md was generated using <a href='https://profile-readme-generator.herokuapp.com/' target='_blank'>https://profile-readme-generator.herokuapp.com/</a>
+ 
             
